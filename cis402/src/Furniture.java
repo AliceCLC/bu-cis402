@@ -53,7 +53,7 @@ public class Furniture {
 			printTableInformation("mahogany", MAHOGANY_WOOD_TABLE_PRICE);
 			break;
 		default:
-			System.out.println("Please select 1, 2 or 3.");
+			System.out.println("The price is 0");
 			break;
 		}
 	}
